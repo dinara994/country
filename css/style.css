@@ -6,7 +6,6 @@
 
 body {
     background: #826aaf;
-
 }
 
 .container {
@@ -46,4 +45,19 @@ body {
 }
 .title {
     margin: 10px 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.random-photo {
+    margin: 50px 40px;
+}
+
+.btn2 {
+    margin-right: 30px;
 }
