@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #826aaf;
+
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    width: 100%;
+    margin: 0 200px;
+}
+.elegantshadow {
+    font-size: 92px;
+    padding: 80px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #131313;
+    letter-spacing: .15em;
+}
+
+.row {
+    display: flex;
+    margin: 0 -15px;
+    flex-wrap: wrap;
+    padding: 100px 0 ;
+}
+
+.col-3 {
+    width: 25%;
+    padding: 0 8px;
+    margin: 30px 0;
+    border:inherit solid;
+    background: initial;
+}
+
+.flag {
+    max-width: 90%;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.title {
+    margin: 10px 0;
+}
